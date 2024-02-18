@@ -1,0 +1,32 @@
+[
+    {
+        "name":"Rohan",
+        "email":"rohan@gmail.com",
+        "age": "21",
+        "city": "Delhi"
+    },
+    {
+        "name":"Bhanu",
+        "email":"bhanu@gmail.com",
+        "age": "23",
+        "city": "Delhi"
+    },
+    {
+        "name":"vandana",
+        "email":"vandana@gmail.com",
+        "age": "48",
+        "city": "Jaipur"
+    },
+    {
+        "name":"Dinesh",
+        "email":"Dinesh@gmail.com",
+        "age": "52",
+        "city": "Mumbai"
+    },
+    {
+        "name":"amit",
+        "email":"amit@gmail.com",
+        "age": "24",
+        "city": "Uttar pradesh"
+    }
+]
